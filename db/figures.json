@@ -1,0 +1,44 @@
+{
+  "figures": [
+    {
+      "id": "square",
+      "name": "Square",
+      "imagePerimeter": "square.jpg",
+      "imageArea": "square.jpg",
+      "attributesPerimeter": ["Side(S) ="],
+      "attributesArea": ["Side(S) ="],
+      "perimeterFormula": ["Perimeter = 4 * S"],
+      "areaFormula": ["Area = S * S"]
+    },
+    {
+      "id": "rectangle",
+      "name": "Rectangle",
+      "imagePerimeter": "rectangle.jpg",
+      "imageArea": "rectangle.jpg",
+      "attributesPerimeter": ["Width(W) = ", "Length(L) ="],
+      "attributesArea": ["Width(W) = ", "Length(L) ="],
+      "perimeterFormula": ["Perimeter = 2 * ( W + L)"],
+      "areaFormula": ["Area = W * L"]
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "imagePerimeter": "triangle-perimeter.jpg",
+      "imageArea": "triangle.jpg",
+      "attributesPerimeter": ["A = ", "B = ", "C = "],
+      "attributesArea": ["Base(B) = ", "Height(H) = "],
+      "perimeterFormula": ["Perimeter =  A + B + C"],
+      "areaFormula": ["Area = (B * H)/2"]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "imagePerimeter": "circle.jpg",
+      "imageArea": "circle.jpg",
+      "attributesPerimeter": ["Radius(R) = "],
+      "attributesArea": ["Radius(R) = "],
+      "perimeterFormula": ["Perimeter =  2 * R * π"],
+      "areaFormula": ["Area = π * R²"]
+    }
+  ]
+}

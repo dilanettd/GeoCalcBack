@@ -1,0 +1,6 @@
+{
+  "units": {
+    "perimeter": ["m", "dm", "cm", "km"],
+    "area": ["m²", "dm²", "cm²", "km²"]
+  }
+}
